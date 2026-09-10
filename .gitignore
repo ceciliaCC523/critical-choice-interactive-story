@@ -1,0 +1,6 @@
+.DS_Store
+.preview-server.log
+.preview-server.pid
+assets/videos/*.mp4
+*.md
+启动游戏网页.command
