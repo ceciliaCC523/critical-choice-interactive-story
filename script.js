@@ -219,14 +219,14 @@ function renderLoading() {
       </button>
 
       <div class="menu-atmosphere">
-        <p class="eyebrow">国门教育互动影游</p>
+        <p class="eyebrow">国门教育互动影课</p>
         <img class="menu-title-image" src="./assets/images/title-critical-choice-transparent.png" alt="临界选择" />
       </div>
 
       <nav class="main-menu-actions" aria-label="主菜单">
         <button class="menu-option is-primary" id="startGame">
           <i class="menu-icon menu-icon--play" aria-hidden="true"></i>
-          <span>开始游戏</span>
+          <span>开始课程</span>
         </button>
         <button class="menu-option" id="showChapters">
           <i class="menu-icon menu-icon--chapters" aria-hidden="true"></i>
