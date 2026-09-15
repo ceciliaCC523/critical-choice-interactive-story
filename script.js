@@ -472,7 +472,7 @@ function renderMomChoice() {
         <h2>妈妈发来消息，小雨心情烦闷</h2>
         <div class="choice-grid mom-choice-actions">
           <button class="choice-option" data-choice="reply">
-            <strong>继续在学校画画</strong>
+            <strong>A 继续在学校</strong>
           </button>
           <button class="choice-option" data-choice="leave">
             <strong>B 不回消息，出去走走</strong>
